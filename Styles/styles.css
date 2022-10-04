@@ -260,7 +260,7 @@ hr {
 }
 .announcements {
   padding: 10px 15px 15px 15px;
-  font-size: 12px;
+  font-size: 14px;
 }
 #trending-title {
   font-weight: 900;
@@ -291,5 +291,5 @@ hr {
 }
 .trends .job {
   padding: 2px;
-  font-size: 12px;
+  font-size: 14px;
 }
